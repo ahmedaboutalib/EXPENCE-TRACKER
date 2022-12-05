@@ -1,3 +1,11 @@
+### WELCOME
+
+
+![]("/public/project_review.png")
+
+REVIEW FOR PROJECT [HERE](https://classy-sfogliatella-dc2957.netlify.app).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
